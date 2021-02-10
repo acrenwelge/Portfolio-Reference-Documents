@@ -107,4 +107,4 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 ## Portfolio Sample 
 
-Here is the [Java MS Published Portfolio Sample](https://app.revature.com/profile/cassiecolvin/47fbe5641ea2d79f785635d2eb86b780) for your reference. Please do not replicate the same sentences.
+Here is the [Java MS with Angular-Published Portfolio Sample](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) and [Java MS with React-Published Portfolio Sample](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)  for your reference. Please do not replicate the same sentences.
