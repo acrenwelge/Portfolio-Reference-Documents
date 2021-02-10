@@ -32,7 +32,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 > **About Me Example:**
 > 
 > _I am a full-stack .NET developer with experience building multi-tiered
-> web > applications. I went to school at X University where I pursued a
+> applications. I went to school at X University where I pursued a
 > Bachelor’s degree in Y.  After practicing law for several years, I
 > decided to shift my career to technology. I've been interested in
 > coding and software development for some time since taking some coding
