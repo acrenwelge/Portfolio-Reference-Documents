@@ -1,6 +1,6 @@
-# Portfolio Reference Documents - Full Stack Java Microservices Training Track
+# Portfolio Reference Documents - Java with Microservices Training Track
 
-Refer to the Portfolio Guidelines and Portfolio Sample to generate your portfolio in RevPro.
+Refer to the [Portfolio Guidelines](./javams-guidlines.md#portfolio-guidelines) and [Portfolio Sample](./javams-guidlines.md#portfolio-sample) to generate your portfolio in RevPro.
 
 ## Portfolio Guidelines
 
