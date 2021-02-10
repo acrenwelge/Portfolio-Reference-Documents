@@ -102,3 +102,6 @@
     
 13.  **Avoid grammatical errors** – Use Grammarly Plugin. Check for typos, grammar, spelling, and capitalization before submitting.
 
+# Portfolio Sample 
+
+Here is the [Java MS Published Portfolio Sample](https://app.revature.com/profile/cassiecolvin/47fbe5641ea2d79f785635d2eb86b780) for your reference. Please do not replicate the same sentences.
