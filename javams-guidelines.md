@@ -47,6 +47,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 > which involves facilitating the daily standups and helping to resolve
 > any blockers my teammates have. I look forward to applying all of my
 > skills and prior experience in a position on your team._
+
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
 6.  **Education &** **Certification**
