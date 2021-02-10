@@ -24,12 +24,26 @@
     -   Don't mention your hobbies or other non-relevant information.
         
 
-**About Me Example:**
-
-_I am a full-stack Java software developer with recent experience building multi-tiered web applications. I went to school at X University where I pursued a Bachelor’s degree in Y. I recently changed career paths to enter the technology field because I learned how to program in Python during a class project diving into computational biology and I really enjoyed the process of coding. In a few years, my goal is to become a senior developer so that I can mentor others._
-
-_During my time at Revature, I’ve worked on several projects where I gained experience in both backend technologies (including Java, SQL, Spring framework, and microservice architecture) as well as frontend development (including HTML/CSS, JavaScript, and Angular). I also have experience with DevOps and using CI/CD pipelines, deploying to the AWS cloud. I really enjoy collaborative team environments where I can learn from others, and I have worked hard to improve my interpersonal and communication skills. For my latest project, I am the team lead which involves facilitating the daily standups and helping to resolve any blockers my teammates have. I look forward to applying all of my skills and prior experience in a position on your team._
-
+> **About Me Example:**
+> 
+> _I am a full-stack Java software developer with recent experience building multi-tiered web applications. I went to school at X
+> University where I pursued a Bachelor’s degree in Y. I recently
+> changed career paths to enter the technology field because I learned
+> how to program in Python during a class project diving into
+> computational biology and I really enjoyed the process of coding. In a
+> few years, my goal is to become a senior developer so that I can
+> mentor others._
+> 
+> _During my time at Revature, I’ve worked on several projects where I gained experience in both backend technologies (including Java, SQL,
+> Spring framework, and microservice architecture) as well as frontend
+> development (including HTML/CSS, JavaScript, and Angular). I also have
+> experience with DevOps and using CI/CD pipelines, deploying to the AWS
+> cloud. I really enjoy collaborative team environments where I can
+> learn from others, and I have worked hard to improve my interpersonal
+> and communication skills. For my latest project, I am the team lead
+> which involves facilitating the daily standups and helping to resolve
+> any blockers my teammates have. I look forward to applying all of my
+> skills and prior experience in a position on your team._
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
 6.  **Education &** **Certification**
