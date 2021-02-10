@@ -1,6 +1,9 @@
-Refer the documents in this site to generate your portfolio in RevPro.
+Refer to the documents in this site to generate your portfolio in RevPro. You can find the Portfolio Guidelines and Portfolio Samples by clicking on your Training Track.
 
 - [Full Stack Java with Microservices](./javams-guidelines.md)
 - .NET Full Stack
 - Salesforce
 - Pega
+
+
+Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.
