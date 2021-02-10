@@ -1,4 +1,4 @@
-# Portfolio Reference Documents - Java with Microservices
+# Full Stack Java with Microservices Training Track
 
 Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Sample](./javams-guidelines.md#portfolio-sample) to generate your portfolio in RevPro.
 
