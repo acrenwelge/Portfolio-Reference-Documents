@@ -1,6 +1,6 @@
 # Portfolio Reference Documents - Java with Microservices
 
-Refer to the [Portfolio Guidelines](./javams-guidlines.md#portfolio-guidelines) and [Portfolio Sample](./javams-guidlines.md#portfolio-sample) to generate your portfolio in RevPro.
+Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Sample](./javams-guidelines.md#portfolio-sample) to generate your portfolio in RevPro.
 
 ## Portfolio Guidelines
 
