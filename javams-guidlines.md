@@ -1,5 +1,8 @@
+# Portfolio Reference Documents - Full Stack Java Microservices Training Track
 
-# Portfolio Guidelines
+Refer to the Portfolio Guidelines and Portfolio Sample to generate your portfolio in RevPro.
+
+## Portfolio Guidelines
 
 1.  Portfolio starts with your name on the top left corner.
     
@@ -102,6 +105,6 @@
     
 13.  **Avoid grammatical errors** – Use Grammarly Plugin. Check for typos, grammar, spelling, and capitalization before submitting.
 
-# Portfolio Sample 
+## Portfolio Sample 
 
 Here is the [Java MS Published Portfolio Sample](https://app.revature.com/profile/cassiecolvin/47fbe5641ea2d79f785635d2eb86b780) for your reference. Please do not replicate the same sentences.
