@@ -6,10 +6,10 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 1.  Portfolio starts with your name on the top left corner.
     
-2.  Add an appropriate **Job Title** as **Software Developer** or **Software Engineer** or **Full stack Software Developer**.
+2.  Add **Job Title** as **Software Developer** or **Software Engineer** or **Full stack Software Developer**.
     
 3.  **Industry equivalency** –Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	-  **Recommended Industry Equivalency Skills** - Java, SQL, Angular 2+, React, Spring, Hibernate, JDBC, DevOps, Microservices, JUnit, AWS.
+	- **Recommended Industry Equivalency Skills** - Java, SQL, Angular 2+, React, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, and AWS.
 	- **Agile** and **Git** are not allowed.
     
 5.  **About** **Me**
