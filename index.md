@@ -2,8 +2,8 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
 
 - [Full Stack Java with Microservices](./javams-guidelines.md)
 - [.NET Full Stack](./dotnet-guidelines.md)
-- Salesforce
-- Pega
+- [Salesforce](./salesforce-guidelines.md)
+- [Pega](./pega-guidelines.md)
 
 
 
