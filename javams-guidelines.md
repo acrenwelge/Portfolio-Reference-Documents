@@ -1,3 +1,4 @@
+
 # Full Stack Java with Microservices Training Track
 
 Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./javams-guidelines.md#portfolio-samples) to generate the portfolio through Revpro.
@@ -94,11 +95,11 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
         
 10.  **Other Experiences**
 
-  -   Add your previous work experience (if any). Recommend to include **only relevant technical experience** in the portfolios.
+	  -   Add your previous work experience (if any). Recommend to include **only relevant technical experience** in the portfolios.
         
-  -   Fill in the required fields - Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
+	  -   Fill in the required fields - Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
         
-  -   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title is a student. After saving this information, click on the blue-colored plus button to add project details.
+	  -   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title is a student. After saving this information, click on the blue-colored plus button to add project details.
     
         
 
