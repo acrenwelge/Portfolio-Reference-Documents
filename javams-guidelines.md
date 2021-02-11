@@ -95,7 +95,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
         
 10.  **Other Experiences**
 
-	  -   Add your previous work experience (if any). Recommend to include **only relevant technical experience** in the portfolios.
+	  -   Add your previous work experience (if any). Recommended to include **only relevant technical experience** in the portfolios.
         
 	  -   Fill in the required fields - Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
         
@@ -113,4 +113,3 @@ Below you have Published Portfolio Samples for your reference. Please do not rep
 
 - [Java MS with Angular](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
 - [Java MS with React](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)   
-
