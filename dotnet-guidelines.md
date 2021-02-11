@@ -1,7 +1,7 @@
 
 # .NET Full Stack Training Track
 
-Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./dotnet-guidelines.md#portfolio-sample) to generate the portfolio through Revpro.
+Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./dotnet-guidelines.md#portfolio-samples) to generate the portfolio through Revpro.
 
 ## Portfolio Guidelines
 
