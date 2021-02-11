@@ -1,6 +1,6 @@
-<div style="width: 200px; height: 200px; margin: 0 auto;">
+<div style="width: 100px; height: 100px; margin: 0 auto;">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/1200px-Salesforce_logo.svg.png" style="width: 100px; height: 100px;">
+![](https://cdn.iconscout.com/icon/free/png-256/salesforce-3-569548.png)
 
 </div>
 
