@@ -1,5 +1,9 @@
+<div style="width: 300px; height: 300px; margin: 0 auto;">
 
 ![](https://mma.prnewswire.com/media/625233/Pega_Logo.jpg?p=publish)
+
+</div>
+
 
 # Pega Training Track
 

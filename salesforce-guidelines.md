@@ -1,5 +1,8 @@
+<div style="width: 300px; height: 300px; margin: 0 auto;">
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/1200px-Salesforce_logo.svg.png)
+
+</div>
 
 # Salesforce CRM Training Track
 
