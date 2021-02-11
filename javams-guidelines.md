@@ -1,7 +1,7 @@
 
 # Full Stack Java with Microservices Training Track
 
-Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./javams-guidelines.md#portfolio-samples) to generate the portfolio through Revpro.
+Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./javams-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
 
 ## Portfolio Guidelines
 
@@ -9,7 +9,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
     
 2.  Add **Job Title** as **Software Developer** or **Software Engineer** or **Full stack Software Developer**.
     
-3.  **Industry equivalency** –Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
+3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - Java, SQL, JavaScript, TypeScript, Angular 2+, React, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, and AWS.
 	- **Agile** and **Git** are not allowed.
     
@@ -113,3 +113,4 @@ Below you have Published Portfolio Samples for your reference. Please do not rep
 
 - [Java MS with Angular](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
 - [Java MS with React](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)   
+
