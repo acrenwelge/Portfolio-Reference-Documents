@@ -10,7 +10,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 2.  Add **Job Title** as **.NET Software Developer**.
     
 3.  **Industry equivalency** –Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - Java, SQL, JavaScript, TypeScript, Angular 2+, React, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, and AWS.
+	- **Recommended Industry Equivalency Skills** - C#,SQL, ASP.NET Web API, ADO.NET Entity Framework, Angular, JavaScript, TypeScript, DevOps, Docker, Microsoft Azure, .NET, Microservices, and any Testing Technologies.
 	- **Agile** and **Git** are not allowed.
     
 5.  **About** **Me**
@@ -73,7 +73,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
         
     -   Equivalency for each skill must be between **3-24 months**.
         
-    -   It is mandatory to add **Microservices** as a category under the Skill Matrix.
+    -   Include some of the MSA technologies you've worked with.
        
     -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
         
@@ -107,9 +107,8 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
         
   -   Fill in the required fields - Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
         
-  -   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title is a student. After saving this information, click on the blue-colored plus button to add project details.
-    
-        
+  -   If you want to mention your college projects apart from the Revature projects, fill the employer as your university and the job title as student. After saving this information, click on the blue-colored plus button to add project details.
+            
 
 12.  **Honors and** **Awards** –Include your honors/awards (if any)
     
@@ -119,8 +118,8 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Java MS with Angular](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
-- [Java MS with React](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)
+- [.NET Full Stack](https://app.revature.com/profile/mattmarnien/548549ee55c76bff93eb3a59412408aa) 
+
 
 
 
