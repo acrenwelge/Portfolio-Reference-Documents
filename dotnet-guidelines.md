@@ -1,7 +1,7 @@
 
 # .NET Full Stack Training Track
 
-Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./dotnet-guidelines.md#portfolio-samples) to generate the portfolio through Revpro.
+Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./dotnet-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
 
 ## Portfolio Guidelines
 
@@ -9,7 +9,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
     
 2.  Add **Job Title** as **.NET Software Developer**.
     
-3.  **Industry equivalency** –Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
+3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - C#,SQL, ASP.NET Web API, ADO.NET Entity Framework, Angular, JavaScript, TypeScript, DevOps, Docker, Microsoft Azure, .NET, Microservices, and any Testing Technologies.
 	- **Agile** and **Git** are not allowed.
     
@@ -119,7 +119,6 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
 - [.NET Full Stack](https://app.revature.com/profile/mattmarnien/548549ee55c76bff93eb3a59412408aa) 
-
 
 
 
