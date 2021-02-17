@@ -11,8 +11,8 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - C#,SQL, ASP.NET Web API, ADO.NET Entity Framework, Angular, JavaScript, TypeScript, DevOps, Docker, Microsoft Azure, .NET, Microservices, and any Testing Technologies.
-	- **Agile** and **Git** are not allowed.
-
+	- All industry equivalencies should not be the same
+	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed.
     
 5.  **About** **Me**
     
