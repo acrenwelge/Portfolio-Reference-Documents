@@ -1,3 +1,4 @@
+
 # Salesforce CRM Training Track
 
 Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./salesforce-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
@@ -26,18 +27,17 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
         
     -   Don't mention your hobbies or other non-relevant information.
         
-
+        
 > **About Me Example:**
 > 
 > _I am a Salesforce Administrator and Developer. I utilize Apex code and Visualforce pages to create a custom user interface within Salesforce. Process and Flow Builders, as well as trigger driven Apex code, allow me to automate and streamline your business processes and prevent errors from popping up. I went to school at Southern Oregon University where I received a Bachelor of Fine Arts in Theatrical Design Technologies. I recently made the switch from entertainment technology to information technology. IT was a good fit for the skills I already have. The activities I most enjoyed were programming lights on a specialized console deploying temporary networks across a variety of locations._
 >
 >_During my time at Revature, I've worked to buildup all the necessary skills in the Programmatic and Declarative development tools in Salesforce. Throughout several projects I strengthened my skillset in coding (with languages such as Apex, SOQL/SOSL, HTML, JavaScript, CSS) and the large variety of out of the box Salesforce declarative tools available (ie. Flow and Process Builder, Approval Processes, Building Custom Objects). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
 >
-
+        
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
-6.  **Education &** **Certification**
-    
+6.  **Education &** **Certification** 
     -   Fill in your completed degree, Major, University, Month & Year of completion.
         
     -   Fill in your Certification Name, Certification ID, Issued By, Issued On.(if any). Upload that Certification Logo/Badge. Add the Public URL to verify your certification.
@@ -83,7 +83,7 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 	  -   Fill in the required fields - Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
         
 	  -   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title is a student. After saving this information, click on the blue-colored plus button to add project details.
-    
+   
         
 
 12.  **Honors and** **Awards** –Include your honors/awards (if any)
