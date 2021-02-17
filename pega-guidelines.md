@@ -10,7 +10,6 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - Pega, Java, PostgreSQL, JDBC, HTML, CSS and JavaScript.
-    	- **Agile** and **Git** are not allowed.
     
 4.  **About** **Me**
     
