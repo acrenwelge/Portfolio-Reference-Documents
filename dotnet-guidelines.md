@@ -26,36 +26,11 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
     -   Be specific and precise about the skills you mention.
         
     -   Don't mention your hobbies or other non-relevant information.
-
-        
-
-> **About Me Example:**
-> 
-> _I am a full-stack .NET developer with experience building multi-tiered
-> applications. I went to school at X University where I pursued a
-> Bachelor’s degree in Y.  After practicing law for several years, I
-> decided to shift my career to technology. I've been interested in
-> coding and software development for some time since taking some coding
-> classes as an undergrad, and I have really enjoyed immersing myself in
-> the field. I hope to become a senior developer in a few years to
-> mentor others, possibly including others trying to make career shifts
-> as I have._
-> 
-> _During my time at Revature, I have worked on several projects which
-> expanded my skill set with both backend (including .NET, ASP.NET,
-> Entity Framework, SQL, and SOA) and frontend technologies (HTML, CSS,
-> JS, Typescript, and Angular). I've gained experience deploying my
-> applications to the cloud making use of CI/CD tools, primarily Azure
-> DevOps pushed to the Azure cloud. I've enjoyed collaborating with the
-> other associations in my batch as we learn more about these
-> technologies together and work collaboratively to build quality
-> applications. It has been an excellent opportunity to learn more about
-> different perspectives on coding as well as how to effectively
-> communicate and plan within a team. For my latest project, I am the
-> team lead which involves facilitating the daily standup meetings and
-> helping to resolve any blockers my teammates have. I look forward to
-> applying all of my skills and prior experience in a position on your
-> team._
+    > **About Me Example:**
+    > 
+    > _I am a full-stack .NET developer with experience building multi-tiered applications. I went to school at X University where I pursued a Bachelor’s degree in Y. After practicing law for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some coding classes as an undergrad, and I have really enjoyed immersing myself in the field. I hope to become a senior developer in a few years to mentor others, possibly including others trying to make career shifts as I have._
+    > 
+    > _During my time at Revature, I have worked on several projects which expanded my skill set with both backend (including .NET, ASP.NET, Entity Framework, SQL, and SOA) and frontend technologies (HTML, CSS, JS, Typescript, and Angular). I've gained experience deploying my applications to the cloud making use of CI/CD tools, primarily Azure DevOps pushed to the Azure cloud. I've enjoyed collaborating with the other associations in my batch as we learn more about these technologies together and work collaboratively to build quality applications. It has been an excellent opportunity to learn more about different perspectives on coding as well as how to effectively communicate and plan within a team. For my latest project, I am the team lead which involves facilitating the daily standup meetings and helping to resolve any blockers my teammates have. I look forward to applying all of my skills and prior experience in a position on your team._
 
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
