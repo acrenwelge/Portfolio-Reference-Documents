@@ -10,7 +10,7 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 2.  Add **Job Title** as **Salesforce Developer**.
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - Salesforce, Apex, SOQL, SOSL, Data Modeling, Visualforce, Lightning, HTML, CSS and JavaScript.
+	- **Recommended Industry Equivalency Skills** - Salesforce, Apex, SOQL, SOSL, Data Modeling, Visualforce, Lightning, and JavaScript.
     
 4.  **About** **Me**
     
