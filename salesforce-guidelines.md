@@ -9,7 +9,7 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 2.  Add **Job Title** as **Salesforce Developer**.
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - Apex, SOQL, SOSL, Visualforce, Lightning, JavaScript and Salesforce.
+	- **Recommended Industry Equivalency Skills** - Salesforce, Apex, SOQL, SOSL, Visualforce, Lightning, JavaScript
 	- **Agile** and **Git** are not allowed.
     
 5.  **About** **Me**
@@ -29,9 +29,10 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 
 > **About Me Example:**
 > 
-> _I am a Salesforce Administrator and Developer. I utilize Apex code and Visualforce pages to create a custom user interface within Salesforce. Process and Flow Builders, as well as trigger driven Apex code, allow me to automate and streamline your business processes and prevent errors from popping up. I went to school at Southern Oregon University where I received a Bachelor of Fine Arts in Theatrical Design Technologies. I recently made the switch from entertainment technology to information technology. IT was a good fit for the skills I already have. The activities I most enjoyed were programming lights on a specialized console deploying temporary networks across a variety of locations._
-> 
-> _During my time at Revature, I've worked to buildup all the necessary skills in the Programmatic and Declarative development tools in Salesforce. Throughout several projects I strengthened my skillset in coding (with languages such as Apex, SOQL/SOSL, HTML, JavaScript, CSS) and the large variety of out of the box Salesforce declarative tools available (ie. Flow and Process Builder, Approval Processes, Building Custom Objects). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
+> _I am a full-stack software programmer and web developer with experience in data management, robotics and STEAM teaching/empowerment. I have always had a strong interest in computer science, but I have never had the funds to complete a professional degree. I recently did a Software Development Immersive with General Assembly while simultaneously working as a Data Coordinator at Nonviolence Institute, a nonprofit that works to reduce gang violence. Prior to this, I was a Science, Technology, Engineering, Arts, and Math (STEAM) teacher to underprivileged youth in Boston for 11 years. My goal is to use technology to uplift marginalized voices by solving problems, remembering to always temper technical capacity with humanity._
+>
+>_In my time with Revature I have deepened my knowledge of Java, HTML, CSS, SQL, and data structures through class work and projects. I have also learned much about Salesforce, security, data modeling, Salesforce languages and frameworks like APEX, Visualforce, SOSL and SOQL. I have built on my knowledge of community organizing and lent it to teamwork and pair programming, even becoming the Scrum Master on my last project and leading daily ceremonies.It is important to me that as a community we can use technology to impact persistent problems both large and small. I want to be part of the solution. I look forward to bringing this mindset and Salesforce Ohana, as well as my experience, to your team.._
+>
 
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
@@ -93,4 +94,4 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Salesforce CRM](https://app.revature.com/profile/Mattl/7a8aa11904dbfd654575ca8b789b4c9b)
+- [Salesforce CRM](https://app.revature.com/profile/DaraGuiney/6c1e59743a3e6f23d11072ddad6b8b03)
