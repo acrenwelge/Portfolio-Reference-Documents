@@ -27,7 +27,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
         
     -   Don't mention your hobbies or other non-relevant information.
     
-    > **About Me Example**
+    > **About Me Example:**
     > 
     > _I am a full-stack Java software developer with recent experience building multi-tiered web applications. I went to school at X University where I pursued a Bachelor’s degree in Y. I recently changed career paths to enter the technology field because I learned how to program in Python during a class project diving into computational biology and I really enjoyed the process of coding. In a few years, my goal is to become a senior developer so that I can mentor others.__
     > 
