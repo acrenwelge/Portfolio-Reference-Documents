@@ -12,6 +12,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - C#,SQL, ASP.NET Web API, ADO.NET Entity Framework, Angular, JavaScript, TypeScript, DevOps, Docker, Microsoft Azure, .NET, Microservices, and any Testing Technologies.
 	- **Agile** and **Git** are not allowed.
+
     
 5.  **About** **Me**
     
@@ -26,6 +27,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
     -   Be specific and precise about the skills you mention.
         
     -   Don't mention your hobbies or other non-relevant information.
+    
     > **About Me Example:**
     > 
     > _I am a full-stack .NET developer with experience building multi-tiered applications. I went to school at X University where I pursued a Bachelor’s degree in Y. After practicing law for several years, I decided to shift my career to technology. I've been interested in coding and software development for some time since taking some coding classes as an undergrad, and I have really enjoyed immersing myself in the field. I hope to become a senior developer in a few years to mentor others, possibly including others trying to make career shifts as I have._
