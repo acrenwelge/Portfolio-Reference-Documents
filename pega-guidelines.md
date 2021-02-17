@@ -1,10 +1,3 @@
-<div style="width: 300px; height: 300px; margin: 0 auto;">
-
-![](https://mma.prnewswire.com/media/625233/Pega_Logo.jpg?p=publish=250x250)
-
-</div>
-
-
 # Pega Training Track
 
 Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./pega-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.

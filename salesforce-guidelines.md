@@ -1,9 +1,3 @@
-<div style="width: 100px; height: 100px; margin: 0 auto;">
-
-![](https://cdn.iconscout.com/icon/free/png-256/salesforce-3-569548.png)
-
-</div>
-
 # Salesforce CRM Training Track
 
 Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./salesforce-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
