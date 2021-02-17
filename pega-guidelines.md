@@ -9,10 +9,10 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
 2.  Add **Job Title** as **Pega Systems Architect/Java Developer**.
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - Java, HTML, CSS, JavaScript, C#, OOP, and Pega.
-    - **Agile** and **Git** are not allowed.
+	- **Recommended Industry Equivalency Skills** - Pega, Java, PostgreSQL, JDBC, HTML, CSS and JavaScript.
+    	- **Agile** and **Git** are not allowed.
     
-5.  **About** **Me**
+4.  **About** **Me**
     
     -   Focus on your personal story and educational background information, career goals, relevant work experience, professional experience and skills, and a summary of your Revature experience.
         
@@ -31,6 +31,7 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
     > _I am a Pega Certified System Architect. I utilized Pega to develop full case life cycles and created full-stack Java applications. I have also programmed projects using SQL, JavaScript, Web Technologies, C#, and Blueprint Scripting. I went to school at Southern Oregon University where I received a Bachelor of Science in Computer Science. IT just seems like the good fit for the skills I already have._
     > 
     > _During my time at Revature, I've built various projects applying Situational Layer Cake methodology and ECS techniques during the Pega design process. Throughout several projects I strengthened my skillset in designing software for Business process management (BPM), Digital process automation and customer relationship management (CRM). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
+    > 
 
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
