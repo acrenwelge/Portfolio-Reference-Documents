@@ -11,6 +11,8 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
 	- **Recommended Industry Equivalency Skills** - Salesforce, Apex, SOQL, SOSL, Data Modeling, Visualforce, Lightning, and JavaScript.
+	- All industry equivalencies should not be the same
+	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed.
     
 4.  **About** **Me**
     
