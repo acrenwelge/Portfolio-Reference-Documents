@@ -25,6 +25,12 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
     -   Be specific and precise about the skills you mention.
         
     -   Don't mention your hobbies or other non-relevant information.
+    
+    > **About Me Example:**
+    > 
+    >  _I am a Salesforce Administrator and Developer. I utilize Apex code and Visualforce pages to create a custom user interface within Salesforce. Process and Flow Builders, as well as trigger driven Apex code, allow me to automate and streamline your business processes and prevent errors from popping up. I went to school at Southern Oregon University where I received a Bachelor of Fine Arts in Theatrical Design Technologies. I recently made the switch from entertainment technology to information technology. IT was a good fit for the skills I already have. The activities I most enjoyed were programming lights on a specialized console deploying temporary networks across a variety of locations._
+    >  _During my time at Revature, I've worked to buildup all the necessary skills in the Programmatic and Declarative development tools in Salesforce. Throughout several projects I strengthened my skillset in coding (with languages such as Apex, SOQL/SOSL, HTML, JavaScript, CSS) and the large variety of out of the box Salesforce declarative tools available (ie. Flow and Process Builder, Approval Processes, Building Custom Objects). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
+    >   
         
 5. Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
