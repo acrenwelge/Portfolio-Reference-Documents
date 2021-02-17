@@ -73,7 +73,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
         
     -   Equivalency for each skill must be between **3-24 months**.
         
-    -   Include some of the MSA technologies you've worked with.
+    -   Include the MSA technologies you've worked with.
        
     -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
         
