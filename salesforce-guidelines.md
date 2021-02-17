@@ -12,7 +12,7 @@ Refer to the [Portfolio Guidelines](./salesforce-guidelines.md#portfolio-guideli
 	- **Recommended Industry Equivalency Skills** - Salesforce, Apex, SOQL, SOSL, Visualforce, Lightning, JavaScript
 	- **Agile** and **Git** are not allowed.
     
-5.  **About** **Me**
+4.  **About** **Me**
     
     -   Focus on your personal story and educational background information, career goals, relevant work experience, professional experience and skills, and a summary of your Revature experience.
         
