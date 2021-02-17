@@ -25,13 +25,12 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
     -   Be specific and precise about the skills you mention.
         
     -   Don't mention your hobbies or other non-relevant information.
-        
-
-> **About Me Example:**
->
-> _I am a Pega Certified System Architect. I utilized Pega to develop full case life cycles and created full-stack Java applications. I have also programmed projects using SQL, JavaScript, Web Technologies, C#, and Blueprint Scripting. I went to school at Southern Oregon University where I received a Bachelor of Science in Computer Science. IT just seems like the good fit for the skills I already have._
-> 
-> _During my time at Revature, I've built various projects applying Situational Layer Cake methodology and ECS techniques during the Pega design process. Throughout several projects I strengthened my skillset in designing software for Business process management (BPM), Digital process automation and customer relationship management (CRM). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
+    
+    > **About Me Example:**
+    > 
+    > _I am a Pega Certified System Architect. I utilized Pega to develop full case life cycles and created full-stack Java applications. I have also programmed projects using SQL, JavaScript, Web Technologies, C#, and Blueprint Scripting. I went to school at Southern Oregon University where I received a Bachelor of Science in Computer Science. IT just seems like the good fit for the skills I already have._
+    > 
+    > _During my time at Revature, I've built various projects applying Situational Layer Cake methodology and ECS techniques during the Pega design process. Throughout several projects I strengthened my skillset in designing software for Business process management (BPM), Digital process automation and customer relationship management (CRM). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
 
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
@@ -49,7 +48,7 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
         
     -   Equivalency for each skill must be between **3-24 months**.
 
-    - It is mandatory to add **Pega** as a category under the Skill Matrix.
+    -	It is mandatory to add **Pega** as a category under the Skill Matrix.
        
     -   Check your capitalization of each technology or tool. Acronyms like UI or AJAX should be in all caps, proper nouns like Java should be capitalized, compound words like JavaScript should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
         
