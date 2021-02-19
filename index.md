@@ -1,4 +1,4 @@
-Refer to the documents in this site to generate your portfolio through RevPro. You can find the Portfolio Guidelines and Portfolio Samples by clicking on your Training Track.
+Refer to the documents on this site to generate your portfolio through RevPro. You can find the Portfolio Guidelines and Portfolio Samples by clicking on your Training Track.
 
 - [Full Stack Java with Microservices](./javams-guidelines.md)
 - [.NET Full Stack](./dotnet-guidelines.md)
