@@ -63,7 +63,10 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
         
 9.  **Projects**
     
-    -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities covered metrics like code coverage, quality grades, build time, lines of code, etc., Also, start your bullet points with the active past verb.
+    -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities
+        -   Talk about how you used different libraries, tools, and APIs (e.g. "Used the Collections framework and Stream API to store unique users and filter them by status")
+        -   Include any metrics you have, like code coverage, code quality grades, build time, lines of code, etc ("Added unit tests to increase code coverage from 20% to 70%")
+        -   Also, start your bullet points with the active past verbs ("built, created, implemented, etc...")
         
     -   **Project Repo URL** - Include **Github Repo Links** for your projects.
         
