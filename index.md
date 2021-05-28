@@ -1,9 +1,9 @@
-Refer to the documents on this site to generate your portfolio through RevPro.
+Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then the specific guidelines for your track.
 
 # Generic Guidelines
 The following guidelines are the same for all training tracks:
 
-## About Me
+### About Me
 The About Me section should be divided into several sections: 
 * Background: 1-2 paragraphs (paragraph should be 3-5 full sentences)
   * Describe yourself, your background, make it unique and personal
@@ -28,6 +28,30 @@ Here are some questions to ponder that can help you express your WHY:
 * I wake up every day inspired to ____ so that _____ 
 
 A good WHY statement has two parts: To __(contribution)__ so that __(impact)__. (But please don't copy this format directly, come up with your own formulation.)
+
+### Education & Certifications
+-   Fill in your completed degree, Major, University, Month & Year of completion.
+-   Fill in your Certification Name, Certification ID, Issued By, Issued On (if any). Upload the Certification Logo/Badge. Add the Public URL to verify your certification.
+-   Uncheck '**Show on portfolio**' for email and contact number. 
+-   Check '**Show globally**' for all these sections: Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards (if you don't do this, it won't show on the published version of the portfolio)
+
+### Work Experiences
+-   This section is used to mention your work experience with Revature's Client after placement.
+-   Used mostly for associates coming back from client projects to be re-deployed.
+-   As of now, the Work Experiences section should be blank. If you any previous work experience, you can mention them under the Other Experiences section.
+
+### Other Experiences
+-   Add your previous work experience (if any)
+-   You may include technical or non-technical experience
+-   Fill in the required fields: Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
+-   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title as a student. After saving this information, click on the blue-colored plus button to add project details.
+
+### Honors and Awards
+- Include your honors/awards (if any)
+
+### Other 
+- Avoid grammatical errors, typos, spelling mistakes, and wrong capitalization
+- Install and use the [Grammarly Plugin](https://www.grammarly.com/) to help you
 
 # Tech Stack Guidelines
 You can find the specific Portfolio Guidelines and Portfolio Samples for a particular tech stack by clicking on your Training Track.
