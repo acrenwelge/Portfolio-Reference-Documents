@@ -3,6 +3,9 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 # Generic Guidelines
 The following guidelines are the same for all training tracks:
 
+### Name & Title
+Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
+
 ### About Me
 The About Me section should be divided into several sections: 
 * Background: 1-2 paragraphs (paragraph should be 3-5 full sentences)
