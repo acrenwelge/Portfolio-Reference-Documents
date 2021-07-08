@@ -1,7 +1,11 @@
 Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then the specific guidelines for your track.
 
 # Generic Guidelines
-The following guidelines are the same for all training tracks:
+The following guidelines are the same for all training tracks.
+
+As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
+
+Writing about yourself, your projects, or your skills on your portfolio is similar. [Follow correct grammar and spelling](https://www.grammarly.com/), [capitalize appropriately](https://www.grammarly.com/blog/capitalization-rules/), and make your sentences flow logically together. Be concise - cut out extra fluff just like you would refactor your code to make it simpler and more straightforward. Remember, your portfolio is the first impression that your interviewer will have of you!
 
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
