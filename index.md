@@ -7,6 +7,14 @@ The following guidelines are the same for all training tracks.
 
 Recall that there are two phases for portfolio review. When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
+* Please DO NOT CLONE your portfolio, unless asked to do so (if you need to make changes, just edit the same portfolio)
+* Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
+* Be aware of submission deadlines for Phase 1 and 2
+
+Also, a note on writing. As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
+
+Writing about yourself, your projects, or your skills on your portfolio is similar. [Follow correct grammar and spelling](https://www.grammarly.com/), [capitalize appropriately](https://www.grammarly.com/blog/capitalization-rules/), and make your sentences flow logically together. Be concise - cut out extra fluff just like you would refactor your code to make it simpler and more straightforward. Remember, your portfolio is the first impression that your interviewer will have of you!
+
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
 
@@ -38,6 +46,12 @@ Here are some questions to ponder that can help you express your WHY:
 
 A good WHY statement has two parts: To __(contribution)__ so that __(impact)__. (But please don't copy this format directly, come up with your own formulation.)
 
+Finally, here are some examples of what NOT to put in your portfolio:
+- Stating that you prefer remote work or that you prefer to work in a particular location
+- Information that may be seen as irrelevant or unprofessional
+- Details about your personal life or friends or family (use common sense judgement here)
+- Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
+
 ### Education & Certifications
 -   Fill in your completed degree, Major, University, Month & Year of completion.
 -   Fill in your Certification Name, Certification ID, Issued By, Issued On (if any). Upload the Certification Logo/Badge. Add the Public URL to verify your certification.
@@ -67,7 +81,9 @@ You can find the specific Portfolio Guidelines and Portfolio Samples for a parti
 
 - [Full Stack Java with Microservices](./javams-guidelines.md)
 - [.NET Full Stack](./dotnet-guidelines.md)
+- [Big Data - portfolio sample](https://app.revature.com/profile/mattrl/b4e152240b147d85074bfdf84c5aceb0)
 - [Salesforce CRM](./salesforce-guidelines.md)
 - [Pega](./pega-guidelines.md)
+- [ServiceNow - portfolio sample](https://app.revature.com/profile/ServiceNowDeveloper/811907ebb06ffc3a04c79ae26ad60b81)
 
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*

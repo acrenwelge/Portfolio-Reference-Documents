@@ -34,5 +34,5 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Java MS with Angular](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
+- [Java MS with Angular](https://app.revature.com/profile/brownje/dd14155176c2d1e6e5461bd0041653c2)
 - [Java MS with React](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)   
