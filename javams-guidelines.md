@@ -12,11 +12,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed.
 
 3.  **Skills Matrix**
-    -   This section used to mention the list of technologies/skills relevant to your core technology stack.
-    -   Add a **minimum of 5 categories and 6 sub-skills each**.
-    -   Equivalency for each skill must be between **3-24 months**.       
-    -   It is mandatory to add **Microservices** as a category under the Skill Matrix.
-    -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+    -   It is mandatory to add **Microservices** as a category under the Skill Matrix if you have covered it during your training
 
 4.  **Projects**
     -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities

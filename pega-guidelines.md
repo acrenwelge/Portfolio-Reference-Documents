@@ -13,9 +13,6 @@ Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) a
 	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed
         
 3.  **Skill Matrix** 
-    -   This section used to mention the list of technologies/skills relevant to your core technology stack.
-    -   Add a **minimum of 5 categories and 6 sub-skills each**.
-    -   Equivalency for each skill must be between **3-24 months**.
     -	It is mandatory to add **Pega** as a category under the Skill Matrix.
     -   Check your capitalization of each technology or tool. Acronyms like UI or AJAX should be in all caps, proper nouns like Java should be capitalized, compound words like JavaScript should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
 

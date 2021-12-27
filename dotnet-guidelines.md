@@ -11,14 +11,7 @@ Refer to the [Portfolio Guidelines](./dotnet-guidelines.md#portfolio-guidelines)
 	- All industry equivalencies should not be the same
 	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed.    
 
-3.  **Skill Matrix**  
-    -   This section used to mention the list of technologies/skills relevant to your core technology stack.
-    -   Add a **minimum of 5 categories and 6 sub-skills each**.
-    -   Equivalency for each skill must be between **3-24 months**
-    -   Include the MSA technologies you've worked with.
-    -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
-        
-4.  **Projects**
+3.  **Projects**
     -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities 
         -   Talk about how you used different libraries, tools, and APIs (e.g. "Used Collections to store unique users and filter them by status")
         -   Include any metrics you have, like code coverage, code quality grades, build time, lines of code, etc ("Added unit tests to increase code coverage from 20% to 70%")

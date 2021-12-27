@@ -58,6 +58,12 @@ Finally, here are some examples of what NOT to put in your portfolio:
 -   Uncheck '**Show on portfolio**' for email and contact number. 
 -   Check '**Show globally**' for all these sections: Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards (if you don't do this, it won't show on the published version of the portfolio)
 
+### Skills Matrix
+-   This section used to mention the list of technologies/skills relevant to your core technology stack.
+-   Add a **minimum of 5 categories and 5 skills within each category**.
+-   Equivalency for each skill must be between **3-24 months**.       
+-   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+
 ### Work Experiences
 -   This section is used to mention your work experience with Revature's Client after placement.
 -   Used mostly for associates coming back from client projects to be re-deployed.
