@@ -1,10 +1,16 @@
 Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then the specific guidelines for your track.
 
+**IMPORTANT: if you do not see the "portfolio" menu option under your profile, please contact `support@revature.com` for help**
+
 # Generic Guidelines
-The following guidelines are the same for all training tracks:
+The following guidelines are the same for all training tracks.
+
+Recall that there are two phases for portfolio review. When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
+
+Additionally, you may upload a professional headshot to your RevaturePro profile. This is optional. If you do upload your headshot, it will appear on your portfolio next to your name. We will review any headshots for professionalism.
 
 ### About Me
 The About Me section should be divided into several sections: 
