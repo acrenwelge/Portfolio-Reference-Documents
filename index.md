@@ -85,11 +85,18 @@ Finally, here are some examples of what NOT to put in your portfolio:
 # Tech Stack Guidelines
 You can find the specific Portfolio Guidelines and Portfolio Samples for a particular tech stack by clicking on your Training Track.
 
-- [Full Stack Java with Microservices](./javams-guidelines.md)
+- [Java Full Stack](./javams-guidelines.md)
 - [.NET Full Stack](./dotnet-guidelines.md)
-- [Big Data - portfolio sample](https://app.revature.com/profile/mattrl/b4e152240b147d85074bfdf84c5aceb0)
 - [Salesforce CRM](./salesforce-guidelines.md)
 - [Pega](./pega-guidelines.md)
-- [ServiceNow - portfolio sample](https://app.revature.com/profile/ServiceNowDeveloper/811907ebb06ffc3a04c79ae26ad60b81)
+
+# Portolio Samples
+- [Big Data](https://app.revature.com/profile/mattrl/b4e152240b147d85074bfdf84c5aceb0)
+- [ServiceNow](https://app.revature.com/profile/ServiceNowDeveloper/811907ebb06ffc3a04c79ae26ad60b81)
+- [Java with Automation](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
+- [Java/Python Automation](https://app.revature.com/profile/AngelArroyo/c50d74a31c77f938debcd9c90048c9df)
+- [Cloud / React Native]((https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
+- [Java ETL](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
+- [Microsoft Dynamics365](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
 
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
