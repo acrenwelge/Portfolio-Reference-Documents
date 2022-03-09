@@ -95,7 +95,7 @@ You can find the specific Portfolio Guidelines and Portfolio Samples for a parti
 - [ServiceNow](https://app.revature.com/profile/ServiceNowDeveloper/811907ebb06ffc3a04c79ae26ad60b81)
 - [Java with Automation](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
 - [Java/Python Automation](https://app.revature.com/profile/AngelArroyo/c50d74a31c77f938debcd9c90048c9df)
-- [Cloud / React Native]((https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
+- [Cloud / React Native](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
 - [Java ETL](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
 - [Microsoft Dynamics365](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
 
