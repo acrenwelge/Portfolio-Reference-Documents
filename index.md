@@ -11,22 +11,18 @@ Recall that there are two phases for portfolio review. When you submit your port
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
 * Be aware of submission deadlines for Phase 1 and 2
 
-Also, a note on writing. As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
-
-Writing about yourself, your projects, or your skills on your portfolio is similar. [Follow correct grammar and spelling](https://www.grammarly.com/), [capitalize appropriately](https://www.grammarly.com/blog/capitalization-rules/), and make your sentences flow logically together. Be concise - cut out extra fluff just like you would refactor your code to make it simpler and more straightforward. Remember, your portfolio is the first impression that your interviewer will have of you!
-
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
 
 Additionally, you may upload a professional headshot to your RevaturePro profile. This is optional. If you do upload your headshot, it will appear on your portfolio next to your name. We will review any headshots for professionalism.
 
 ### About Me
-The About Me section should be divided into several sections: 
+The About Me section should be divided into several sections:
 * Background: 1-2 paragraphs (paragraph should be 3-5 full sentences)
   * Describe yourself, your background, make it unique and personal
-  * Should be mostly nontechnical (the rest of the portfolio is about your tech skills) 
+  * Should be mostly nontechnical (the rest of the portfolio is about your tech skills), but mention any skills at a high level
   * Can include talking about your educational experience or any prior work experiences (technical, or non-technical)
-* Interesting Facts About Myself 
+* Interesting Facts About Myself
   * This should be in bullet point format
   * 3-5 facts
 
@@ -46,11 +42,34 @@ Here are some questions to ponder that can help you express your WHY:
 
 A good WHY statement has two parts: To __(contribution)__ so that __(impact)__. (But please don't copy this format directly, come up with your own formulation.)
 
-Finally, here are some examples of what NOT to put in your portfolio:
+To stand out, focus not just on your personality or interests, but also on your accomplishments and expertise. Have you lead a team? Solved a complex problem? Overcome challenging obstacles? Think about how your unique skillset adds value to a potential employer.
+
+Below are some examples of what NOT to put in your portfolio:
 - Stating that you prefer remote work or that you prefer to work in a particular location
 - Information that may be seen as irrelevant or unprofessional
 - Details about your personal life or friends or family (use common sense judgement here)
 - Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
+
+Let's look at a few example sentences and how they can be improved:
+
+#### Example 1
+Poor: *Since I have worked within a strict military setting, I have the ability to use disclipline and follow in accordance with strict deadlines*
+
+Better: *Because of my military background, I am a discplined goal-setter who can achieve under pressure and meet strict deadlines*
+
+#### Example 2
+Poor: *I have always had a very big interest in technology, and I am excited about the process of building full stack applications*
+
+Better: *I have a passion for new technology, so I enjoy using industry-standard tools to create scalable and flexible solutions in an Agile environment*
+
+#### Example 3
+Poor: *The frameworks with which I have experience are Spring and Angular for which I have developed different applications that help in easing the development process*
+
+Better: *In my work, I've built apps using popular frameworks for Java and JavaScript, including Spring and Angular, respectively*
+
+Finally, a note on writing. As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
+
+Writing about yourself, your projects, or your skills on your portfolio is similar. [Follow correct grammar and spelling](https://www.grammarly.com/), [capitalize appropriately](https://www.grammarly.com/blog/capitalization-rules/), and make your sentences flow logically together. [Be clear and concise](https://writingcenter.uagc.edu/writing-clearly-concisely) - cut out extra fluff just like you would refactor your code to make it simpler and more straightforward. Remember, your portfolio is the first impression that your interviewer will have of you!
 
 ### Education & Certifications
 -   Fill in your completed degree, Major, University, Month & Year of completion.
