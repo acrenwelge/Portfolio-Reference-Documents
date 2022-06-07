@@ -2,12 +2,12 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 
 **IMPORTANT: if you do not see the "portfolio" menu option under your profile, please contact `support@revature.com` for help**
 
-# Generic Guidelines
-The following guidelines are the same for all training tracks.
-
+# Portfolio Guidelines
 Recall that there are two phases for portfolio review. When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
-* Please DO NOT CLONE your portfolio, unless asked to do so (if you need to make changes, just edit the same portfolio)
+* Please **DO NOT CLONE** your portfolio, unless asked to do so
+  * If you need to make changes, just edit the same portfolio
+  * If you have already submitted your portfolio and cannot edit it, ask your QC auditor or trainer to reject it
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
 * Be aware of submission deadlines for Phase 1 and 2
 
@@ -36,7 +36,7 @@ Additionally, you may upload a professional headshot to your RevaturePro profile
 The About Me section should be divided into two sections:
 * Background: 1-2 paragraphs (paragraph should be 3-5 full sentences)
   * Describe yourself, your background, make it unique and personal
-  * Mention important skills and accomplishments you have achieved at a broad, high level
+  * Mention your most important skills and accomplishments you have achieved at a broad, high level
   * Can include talking about your educational experience or any prior work experiences (technical, or non-technical)
 * Interesting Facts About Myself
   * This should be in bullet point format
@@ -53,11 +53,9 @@ Use the following template:
 >  * C
 >  * etc...
 
-Your "About Me" section is your chance to stand out to the client. It should be personal, unique, and authentic to who you are. Always keep in mind, though, that everything on your portfolio needs to be **professional**. When writing about yourself, talk about WHO you are, WHAT valuable skills you have, and your WHY - your motivation, passion, drive, and enthusiasm for what you do.
+Your "About Me" section is your chance to stand out to the client. It should be personal, unique, and authentic to who you are. Always keep in mind, though, that everything on your portfolio needs to be **professional**. When writing about yourself, talk about WHO you are, WHAT valuable skills you have, and your WHY - your motivation, passion, drive, and enthusiasm for what you do. WHO you are is simple - start with your title and personal background, and maybe some aspect of your personality. WHAT technical skills you have should be covered briefly and give a high-level overview, as the rest of your portfolio focuses on this.
 
-WHO you are is simple - start with your title and personal background, and maybe some aspect of your personality. WHAT technical skills you have should be covered briefly and give a high-level overview, as the rest of your portfolio focuses on this. The WHY portion of your bio often sets you apart.
-
-Where does your WHY come from?  We are all products of our upbringing. Our WHY is found by looking back at previous experiences. Growing up, there were times we naturally thrived and did things well. Those natural abilities manifested themselves in different ways and the key to finding your WHY is to identify those experiences and the patterns across them.
+The WHY portion of your bio often sets you apart. Where does your WHY come from?  We are all products of our upbringing. Our WHY is found by looking back at previous experiences. Growing up, there were times we naturally thrived and did things well. Those natural abilities manifested themselves in different ways and the key to finding your WHY is to identify those experiences and the patterns across them.
 
 Here are some questions to ponder that can help you express your WHY: 
 
@@ -71,7 +69,21 @@ Here are some questions to ponder that can help you express your WHY:
 
 A good WHY statement has two parts: To __(contribution)__ so that __(impact)__. (But please don't copy this format directly, come up with your own formulation.)
 
-To stand out, **focus not just on your personality or interests, but also on your accomplishments and expertise**. Have you lead a team? Solved a complex problem? Overcome challenging obstacles? Think about how your unique skillset adds value to a potential employer. The more specific you write, the more compelling your bio becomes.
+To stand out, **focus not just on your personality or interests, but also on your accomplishments and expertise**. Have you lead a team? Solved a complex problem? Overcome challenging obstacles? Think about how your unique skillset adds value to a potential employer. The more specific you write, the more compelling your bio becomes. Your writing should grab an interviewer's attention and make them want to hire you. Do not be afraid to be proud of yourself and your accomplishments. For a few examples:
+
+#### Example 1
+Weak:
+> I have learned a little bit about Java and used it on a few projects
+
+Strong:
+> I am an accomplished Java full-stack developer with a proven record of building applications to fulfill key business requirements on strict deadlines
+
+#### Example 2
+Weak:
+> Some technologies I know are Java, SQL, and Spring
+
+Strong:
+> I have experience writing object-oriented Java code, constructing complex analytics queries with SQL, and building enterprise-level, production-ready applications with the Spring framework
 
 Below are some examples of what NOT to put in your portfolio:
 - Stating that you prefer remote work or that you prefer to work in a particular location
@@ -79,22 +91,28 @@ Below are some examples of what NOT to put in your portfolio:
 - Details about your personal life or friends or family (use common sense judgement here)
 - Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
 
-When writing, start with a rough draft but always review and revise it to make it better. Let's look at a few example sentences and how they can be rewritten to be improved to be clearer, more concise, and direct:
+When writing, start with a rough draft but always review and revise it to make it better. Paragraphs should flow well, with smooth transitions. Let's look at a few example sentences and how they can be rewritten to be improved to be clearer, more concise, and direct:
 
 #### Example 1
-* Poor: *Since I have worked within a strict military setting, I have the ability to use disclipline and follow in accordance with strict deadlines*
+Poor:
+> Since I have worked within a strict military setting, I have the ability to use disclipline and follow in accordance with strict deadlines
 
-* Better: *Because of my military background, I am a discplined goal-setter who can achieve under pressure and meet strict deadlines*
+Better:
+> Because of my military background, I am a discplined goal-setter who can achieve under pressure and meet strict deadlines
 
 #### Example 2
-* Poor: *I have always had a very big interest in technology, and I am excited about the process of building full stack applications*
+Poor:
+> I have always had a very big interest in technology, and I am excited about the process of building full stack applications
 
-* Better: *I have a passion for new technology, so I enjoy using industry-standard tools to create scalable and flexible solutions in an Agile environment*
+Better:
+> I have a passion for new technology, so I enjoy using industry-standard tools to create scalable and flexible solutions in an Agile environment
 
 #### Example 3
-* Poor: *The frameworks with which I have experience are Spring and Angular for which I have developed different applications that help in easing the development process*
+Poor:
+> The frameworks with which I have experience are Spring and Angular for which I have developed different applications that help in easing the development process
 
-* Better: *In my work, I've built apps using popular frameworks for Java and JavaScript, including Spring and Angular, respectively*
+Better:
+> In my work, I've built apps using popular frameworks for Java and JavaScript, including Spring and Angular, respectively
 
 A final note on writing: as a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
 
@@ -124,19 +142,25 @@ Each project you complete should be added to this section. Once your trainer ass
 These bullet points should talk about how you used different technologies, languages, libraries, tools, frameworks, APIs, etc. Include any metrics you have, like code coverage, code quality grades, build time, lines of code, etc. Also, start your bullet points with the active past tense verbs ("built, created, implemented, etc..."). Do not make your bullet points too short or ramble too long - be concise and specific. Use the below examples to get you started.
 
 #### Example 1
-* Poor: *Showed users in the database*
+Poor:
+> Showed users in the database
 
-* Better: *Used the Collections framework and Stream API to store unique users and filter them by status*
+Better:
+> Used the Collections framework and Stream API to store unique users and filter them by status
 
 #### Example 2
-* Poor: *Wrote some tests that tested functionality*
+Poor:
+> Wrote some tests that tested functionality
 
-* Better: *Added unit tests to validate user inputs and increased code coverage from 20% to 70%*
+Better:
+> Added unit tests to validate user inputs in the service layer and increased code coverage from 20% to 70%
 
 #### Example 3
-* Poor: *Displayed list of books on the webpage*
+Poor:
+> Displayed list of books on the webpage
 
-* Better: *Leveraged Angular's HttpClient service to make async HTTP calls to back-end API to retrieve list of books to display in HTML table*
+Better:
+> Leveraged Angular's HttpClient service to make async HTTP calls to back-end API to retrieve list of books to display in HTML table
 
 ### Other Experiences
 -   Add your previous work experience (if any)
