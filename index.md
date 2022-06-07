@@ -12,23 +12,52 @@ Recall that there are two phases for portfolio review. When you submit your port
 * Be aware of submission deadlines for Phase 1 and 2
 
 ### Name & Title
-Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track (see tech stack guidelines below).
+Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below.
+
+| Training Track | Title |
+|  ------------- | ----- |
+| Java Full Stack | Full-Stack Software Developer |
+| Java with Automation | Test Automation Engineer |
+| Java/React | Full-Stack Software Developer |
+| Java Enterprise | Full-Stack Software Developer |
+| .NET Full Stack | Full-Stack Software Developer |
+| Salesforce | Salesforce Developer |
+| Big Data | Big Data Engineer |
+| Java or Python DevOps/SRE | Site Reliability Engineer |
+| Appian | Appian Developer |
+| iOS | iOS Mobile Developer |
+| Android | Android Mobile Developer |
+| ServiceNow | ServiceNow Developer |
+| Pega | Pega Systems Architect/Java Developer |
 
 Additionally, you may upload a professional headshot to your RevaturePro profile. This is optional. If you do upload your headshot, it will appear on your portfolio next to your name. We will review any headshots for professionalism.
 
 ### About Me
-The About Me section should be divided into several sections:
+The About Me section should be divided into two sections:
 * Background: 1-2 paragraphs (paragraph should be 3-5 full sentences)
   * Describe yourself, your background, make it unique and personal
-  * Should be mostly nontechnical (the rest of the portfolio is about your tech skills), but mention any skills at a high level
+  * Mention important skills and accomplishments you have achieved at a broad, high level
   * Can include talking about your educational experience or any prior work experiences (technical, or non-technical)
 * Interesting Facts About Myself
   * This should be in bullet point format
   * 3-5 facts
 
-Your "About Me" section is your chance to stand out to the client. It should be personal, unique, and authentic to who you are. Always keep in mind, though, that everything on your portfolio needs to be **professional**. When talking about yourself, be explicit about your WHY - your motivation, passion, drive, and enthusiasm for what you do.
+Use the following template:
+> [Intro paragraph - a few sentences]
+> 
+> [Secondary paragraph - a few sentences]
+> 
+> **Interesting Facts About Me**
+>  * A
+>  * B
+>  * C
+>  * etc...
 
-Where does your WHY come from?  We are all products of our upbringing. The WHY is found by looking back at the experiences we had growing up. Growing up, there were times we naturally thrived and did things well. Those natural abilities manifested themselves in different ways and the key to finding your WHY is to identify those experiences and the patterns across them.
+Your "About Me" section is your chance to stand out to the client. It should be personal, unique, and authentic to who you are. Always keep in mind, though, that everything on your portfolio needs to be **professional**. When writing about yourself, talk about WHO you are, WHAT valuable skills you have, and your WHY - your motivation, passion, drive, and enthusiasm for what you do.
+
+WHO you are is simple - start with your title and personal background, and maybe some aspect of your personality. WHAT technical skills you have should be covered briefly and give a high-level overview, as the rest of your portfolio focuses on this. The WHY portion of your bio often sets you apart.
+
+Where does your WHY come from?  We are all products of our upbringing. Our WHY is found by looking back at previous experiences. Growing up, there were times we naturally thrived and did things well. Those natural abilities manifested themselves in different ways and the key to finding your WHY is to identify those experiences and the patterns across them.
 
 Here are some questions to ponder that can help you express your WHY: 
 
@@ -42,7 +71,7 @@ Here are some questions to ponder that can help you express your WHY:
 
 A good WHY statement has two parts: To __(contribution)__ so that __(impact)__. (But please don't copy this format directly, come up with your own formulation.)
 
-To stand out, focus not just on your personality or interests, but also on your accomplishments and expertise. Have you lead a team? Solved a complex problem? Overcome challenging obstacles? Think about how your unique skillset adds value to a potential employer.
+To stand out, **focus not just on your personality or interests, but also on your accomplishments and expertise**. Have you lead a team? Solved a complex problem? Overcome challenging obstacles? Think about how your unique skillset adds value to a potential employer. The more specific you write, the more compelling your bio becomes.
 
 Below are some examples of what NOT to put in your portfolio:
 - Stating that you prefer remote work or that you prefer to work in a particular location
@@ -50,24 +79,24 @@ Below are some examples of what NOT to put in your portfolio:
 - Details about your personal life or friends or family (use common sense judgement here)
 - Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
 
-Let's look at a few example sentences and how they can be improved:
+When writing, start with a rough draft but always review and revise it to make it better. Let's look at a few example sentences and how they can be rewritten to be improved to be clearer, more concise, and direct:
 
 #### Example 1
-Poor: *Since I have worked within a strict military setting, I have the ability to use disclipline and follow in accordance with strict deadlines*
+* Poor: *Since I have worked within a strict military setting, I have the ability to use disclipline and follow in accordance with strict deadlines*
 
-Better: *Because of my military background, I am a discplined goal-setter who can achieve under pressure and meet strict deadlines*
+* Better: *Because of my military background, I am a discplined goal-setter who can achieve under pressure and meet strict deadlines*
 
 #### Example 2
-Poor: *I have always had a very big interest in technology, and I am excited about the process of building full stack applications*
+* Poor: *I have always had a very big interest in technology, and I am excited about the process of building full stack applications*
 
-Better: *I have a passion for new technology, so I enjoy using industry-standard tools to create scalable and flexible solutions in an Agile environment*
+* Better: *I have a passion for new technology, so I enjoy using industry-standard tools to create scalable and flexible solutions in an Agile environment*
 
 #### Example 3
-Poor: *The frameworks with which I have experience are Spring and Angular for which I have developed different applications that help in easing the development process*
+* Poor: *The frameworks with which I have experience are Spring and Angular for which I have developed different applications that help in easing the development process*
 
-Better: *In my work, I've built apps using popular frameworks for Java and JavaScript, including Spring and Angular, respectively*
+* Better: *In my work, I've built apps using popular frameworks for Java and JavaScript, including Spring and Angular, respectively*
 
-Finally, a note on writing. As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
+A final note on writing: as a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
 
 Writing about yourself, your projects, or your skills on your portfolio is similar. [Follow correct grammar and spelling](https://www.grammarly.com/), [capitalize appropriately](https://www.grammarly.com/blog/capitalization-rules/), and make your sentences flow logically together. [Be clear and concise](https://writingcenter.uagc.edu/writing-clearly-concisely) - cut out extra fluff just like you would refactor your code to make it simpler and more straightforward. Remember, your portfolio is the first impression that your interviewer will have of you!
 
@@ -87,6 +116,27 @@ Writing about yourself, your projects, or your skills on your portfolio is simil
 -   This section is used to mention your work experience with Revature's Client after placement.
 -   Used mostly for associates coming back from client projects to be re-deployed.
 -   As of now, the Work Experiences section should be blank. If you any previous work experience, you can mention them under the Other Experiences section.
+
+### Projects
+
+Each project you complete should be added to this section. Once your trainer assigns the project, it will be available in the drop-down selection. Projects contain a description and a list of technologies used. **You must add your roles and responsibilities on the project by including at least 5 bullet points**.
+
+These bullet points should talk about how you used different technologies, languages, libraries, tools, frameworks, APIs, etc. Include any metrics you have, like code coverage, code quality grades, build time, lines of code, etc. Also, start your bullet points with the active past tense verbs ("built, created, implemented, etc..."). Do not make your bullet points too short or ramble too long - be concise and specific. Use the below examples to get you started.
+
+#### Example 1
+* Poor: *Showed users in the database*
+
+* Better: *Used the Collections framework and Stream API to store unique users and filter them by status*
+
+#### Example 2
+* Poor: *Wrote some tests that tested functionality*
+
+* Better: *Added unit tests to validate user inputs and increased code coverage from 20% to 70%*
+
+#### Example 3
+* Poor: *Displayed list of books on the webpage*
+
+* Better: *Leveraged Angular's HttpClient service to make async HTTP calls to back-end API to retrieve list of books to display in HTML table*
 
 ### Other Experiences
 -   Add your previous work experience (if any)
