@@ -1,15 +1,36 @@
-Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then the specific guidelines for your track.
+Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then view specific examples for your track.
 
 **IMPORTANT: if you do not see the "portfolio" menu option under your profile, please contact `support@revature.com` for help**
 
-# Portfolio Guidelines
-Recall that there are two phases for portfolio review. When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
+# Portfolio Review Process
+
+You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients.
+
+There are two phases for portfolio review:
+* Phase 1: due on Friday 4 weeks before your training end date
+* Phase 2: due on Tuesday 2 weeks before your training end date
+* The specific deadline will be sent to you via email
+
+The following sections are required to be completed for each phase:
+* Phase 1
+  - Title
+  - About Me
+  - Education
+  - Projects (only 1 required)
+  - Other Experiences
+* Phase 2
+  - Skills Matrix
+  - Projects (2 projects required)
+
+When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
 * Please **DO NOT CLONE** your portfolio, unless asked to do so
   * If you need to make changes, just edit the same portfolio
   * If you have already submitted your portfolio and cannot edit it, ask your QC auditor or trainer to reject it
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
 * Be aware of submission deadlines for Phase 1 and 2
+
+# Guidelines
 
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below.
@@ -23,12 +44,16 @@ Check that your full name in the top left corner is accurate. Please contact `su
 | .NET Full Stack | Full-Stack Software Developer |
 | Salesforce | Salesforce Developer |
 | Big Data | Big Data Engineer |
+| Mulesoft | Software Developer |
 | Java or Python DevOps/SRE | Site Reliability Engineer |
 | Appian | Appian Developer |
 | iOS | iOS Mobile Developer |
 | Android | Android Mobile Developer |
 | ServiceNow | ServiceNow Developer |
 | Pega | Pega Systems Architect/Java Developer |
+| UiPath | RPA Developer |
+| DynamicsCRM | Dynamics 365 Technical Consultant |
+| BA | Business Analyst |
 
 Additionally, you may upload a professional headshot to your RevaturePro profile. This is optional. If you do upload your headshot, it will appear on your portfolio next to your name. We will review any headshots for professionalism.
 
@@ -125,10 +150,30 @@ Writing about yourself, your projects, or your skills on your portfolio is simil
 -   Check '**Show globally**' for all these sections: Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards (if you don't do this, it won't show on the published version of the portfolio)
 
 ### Skills Matrix
--   This section used to mention the list of technologies/skills relevant to your core technology stack.
--   Add a **minimum of 5 categories and 5 skills within each category**.
--   Equivalency for each skill must be between **3-24 months**.       
--   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+
+This section provides a list of technologies/skills that you have experience in. Depending on your tech track, you must add **3-5 categories with 5 skills within each category**. The categories should flow well, starting with the skill most relevant to your tech stack. Try to avoid repeating skills across categories. Equivalency number for each skill must be between **3-24 months**. Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+
+Below is a table of *suggested* skill categories that you may want to use for your training track:
+
+| Training Track | # Categories Required | Suggested Categories |
+|  ------------- | --------------------- | ----- |
+| Java Full Stack | 5 | Languages, Front-end, Back-end, DevOps, Microservices Architecture |
+| Java (or Python) with Automation | 5 | Testing, DevOps, Back-end, Front-end, Languages |
+| Java/React | 5 | Languages, Front-end, Back-end, Database, DevOps |
+| Java Enterprise | 5 | Languages, Database, Concurrency, DevOps, Back-end |
+| .NET Full Stack | 5 | Languages, Front-end, Back-end, DevOps, Web Services |
+| Salesforce | 5 | Admin, Developer, Process Automation, Sales Cloud, Service Cloud, Aura |
+| Java or Python DevOps/SRE | 5 | DevOps, Performance Monitoring, Languages, Cloud, Testing |
+| Big Data | 4 | Languages, Database, Big Data, Linux, Cloud |
+| Mulesoft | 4 | Mulesoft, Java, SQL, Web Services |
+| Appian | 4 | Appian, Java, SQL, Web Technologies |
+| iOS | 4 | iOS Platform, iOS Libraries, Languages, DevOps & Security, Testing, Persistence |
+| Android | 4 | Android Platform, Android Libraries, Languages, Persistence, IDEs |
+| ServiceNow | 4 | ITSM Concepts, ServiceNow Platform, ServiceNow Programming, ServiceNow Integrations, Web Technologies |
+| Pega | 3 | Pega, Java, Database, Web Technologies |
+| UiPath | 3 | TBD |
+| DynamicsCRM | 3 | Dynamics365 CRM, Power Platform, Languages, Web Technologies |
+| BA | 3 | Office, Analysis Techniques, Elicitation Techniques |
 
 ### Work Experiences
 -   This section is used to mention your work experience with Revature's Client after placement.
@@ -164,6 +209,7 @@ Better:
 
 ### Other Experiences
 -   Add your previous work experience (if any)
+-   Do NOT include your Revature experience here; this is implied by the portfolio itself
 -   You may include technical or non-technical experience
 -   Fill in the required fields: Employer, dates, and job title. After saving the employment information, click on the blue-colored plus button to add the roles, responsibilities, and other necessary details.
 -   If you want to mention your college projects apart from the Revature projects, fill the employer is your university and the job title as a student. After saving this information, click on the blue-colored plus button to add project details.
