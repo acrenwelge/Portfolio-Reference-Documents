@@ -216,26 +216,32 @@ Better:
 
 ### Honors and Awards
 - Include your honors/awards (if any)
+- Examples may include scholarships, extracurricular achievements, or others
 
 ### Other 
 - Avoid grammatical errors, typos, spelling mistakes, and wrong capitalization
 - Install and use the [Grammarly Plugin](https://www.grammarly.com/) to help you
 
-# Tech Stack Guidelines
-You can find the specific Portfolio Guidelines and Portfolio Samples for a particular tech stack by clicking on your Training Track.
-
-- [Java Full Stack](./javams-guidelines.md)
-- [.NET Full Stack](./dotnet-guidelines.md)
-- [Salesforce CRM](./salesforce-guidelines.md)
-- [Pega](./pega-guidelines.md)
-
 # Portolio Samples
-- [Big Data](https://app.revature.com/profile/mattrl/b4e152240b147d85074bfdf84c5aceb0)
-- [ServiceNow](https://app.revature.com/profile/ServiceNowDeveloper/811907ebb06ffc3a04c79ae26ad60b81)
-- [Java with Automation](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
-- [Java/Python Automation](https://app.revature.com/profile/AngelArroyo/c50d74a31c77f938debcd9c90048c9df)
-- [Cloud / React Native](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
-- [Java ETL](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
-- [Microsoft Dynamics365](https://app.revature.com/profile/AlexStarr/17b38dd95d7cf8934016adb219521526)
+- Java / Angular
+- Java / React
+- Java with Automation
+- Java ETL
+- Java Enterprise
+- .NET
+- Salesforce
+- Big Data
+- Mulesoft
+- DevOps/SRE
+- Appian
+- iOS
+- Android
+- ServiceNow
+- Cloud / React Native
+- Pega
+- UiPath
+- Dynamics365
+- Microsoft Dynamics365
+- Business Analysis
 
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
