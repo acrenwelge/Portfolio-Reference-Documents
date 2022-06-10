@@ -4,14 +4,12 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 
 # Portfolio Review Process
 
-You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients.
-
-There are two phases for portfolio review:
+You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are two phases for portfolio review:
 * Phase 1: due on Monday 4 weeks before your training end date
   - Review will complete by that Friday
   - Make any requested changes and start work for Phase 2
 * Phase 2: due on Monday 2 weeks before your training end date
-  - Review will complete by that Wednesday
+  - Review will complete by end of day Wednesday
   - Make any final requested changes you receive and resubmit
   - Final deadline to get portfolio published is that Friday
 * The specific deadlines will be sent to you via email
@@ -36,7 +34,7 @@ When you submit your portfolio for phase 1, we will review and send any feedback
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
 * Be aware of submission deadlines for Phase 1 and 2
 
-# Guidelines
+# Guidelines for Completing Your Portfolio
 
 ### Name & Title
 Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below.
@@ -188,7 +186,7 @@ Below is a table of *suggested* skill categories that you may want to use for yo
 
 ### Projects
 
-Each project you complete should be added to this section. Once your trainer assigns the project, it will be available in the drop-down selection. Projects contain a description and a list of technologies used. **You must add your roles and responsibilities on the project by including at least 5 bullet points**.
+Each project you complete should be added to this section. Once your trainer assigns the project, it will be available in the drop-down selection. Projects contain a description and a list of technologies used. **You must add your roles and responsibilities on the project by including at least 5 bullet points**. Also, there is a field for your project repository's URL - please do NOT fill this in, as this is not required nor recommended.
 
 These bullet points should talk about how you used different technologies, languages, libraries, tools, frameworks, APIs, etc. Include any metrics you have, like code coverage, code quality grades, build time, lines of code, etc. Also, start your bullet points with the active past tense verbs ("built, created, implemented, etc..."). Do not make your bullet points too short or ramble too long - be concise and specific. Use the below examples to get you started.
 
