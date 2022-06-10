@@ -7,9 +7,15 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients.
 
 There are two phases for portfolio review:
-* Phase 1: due on Friday 4 weeks before your training end date
-* Phase 2: due on Tuesday 2 weeks before your training end date
-* The specific deadline will be sent to you via email
+* Phase 1: due on Monday 4 weeks before your training end date
+  - Review will complete by that Friday
+  - Make any requested changes and start work for Phase 2
+* Phase 2: due on Monday 2 weeks before your training end date
+  - Review will complete by that Wednesday
+  - Make any final requested changes you receive and resubmit
+  - Final deadline to get portfolio published is that Friday
+* The specific deadlines will be sent to you via email
+* Ask any questions you have to your QC auditor during or after your QC session
 
 The following sections are required to be completed for each phase:
 * Phase 1
@@ -171,12 +177,12 @@ Below is a table of *suggested* skill categories that you may want to use for yo
 | Android | 4 | Android Platform, Android Libraries, Languages, Persistence, IDEs |
 | ServiceNow | 4 | ITSM Concepts, ServiceNow Platform, ServiceNow Programming, ServiceNow Integrations, Web Technologies |
 | Pega | 3 | Pega, Java, Database, Web Technologies |
-| UiPath | 3 | TBD |
+| UiPath | 3 | UiPath Orchestrator, REFramework, UiPath Data Activities, UiPath Web Activities, Project Organization |
 | DynamicsCRM | 3 | Dynamics365 CRM, Power Platform, Languages, Web Technologies |
 | BA | 3 | Office, Analysis Techniques, Elicitation Techniques |
 
 ### Work Experiences
--   This section is used to mention your work experience with Revature's Client after placement.
+-   This section is used to mention your work experience with Revature's client after placement.
 -   Used mostly for associates coming back from client projects to be re-deployed.
 -   As of now, the Work Experiences section should be blank. If you any previous work experience, you can mention them under the Other Experiences section.
 
