@@ -1,4 +1,4 @@
-Refer to the documents on this site to generate your portfolio through RevPro. Read through the generic guidelines and then view specific examples for your track.
+Refer to this document to generate your portfolio through RevaturePro. Read through the generic guidelines and then view specific examples for your track.
 
 **IMPORTANT: if you do not see the "portfolio" menu option under your profile, please contact `support@revature.com` for help**
 
