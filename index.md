@@ -24,6 +24,7 @@ The following sections are required to be completed for each phase:
   - Other Experiences
 * Phase 2
   - Skills Matrix
+  - Industry Equivalency
   - Projects (2 projects required)
 
 When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
@@ -37,29 +38,43 @@ When you submit your portfolio for phase 1, we will review and send any feedback
 # Guidelines for Completing Your Portfolio
 
 ### Name & Title
-Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below.
+Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below. The "recommended industry equivalency skills" are covered in the next section.
 
-| Training Track | Title |
-|  ------------- | ----- |
-| Java Full Stack | Full-Stack Software Developer |
-| Java with Automation | Test Automation Engineer |
-| Java/React | Full-Stack Software Developer |
-| Java Enterprise | Full-Stack Software Developer |
-| .NET Full Stack | Full-Stack Software Developer |
-| Salesforce | Salesforce Developer |
-| Big Data | Big Data Engineer |
-| Mulesoft | Software Developer |
-| Java or Python DevOps/SRE | Site Reliability Engineer |
-| Appian | Appian Developer |
-| iOS | iOS Mobile Developer |
-| Android | Android Mobile Developer |
-| ServiceNow | ServiceNow Developer |
-| Pega | Pega Systems Architect/Java Developer |
-| UiPath | RPA Developer |
-| DynamicsCRM | Dynamics 365 Technical Consultant |
-| BA | Business Analyst |
+| Training Track | Title | Recommended Industry Equivalency Skills |
+|  ------------- | ----- | --------------------------------------- |
+| Java Full Stack | Full-Stack Software Developer | Java, SQL, JavaScript, TypeScript, Angular, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, AWS |
+| Java with Automation | Test Automation Engineer | Selenium, Java, DevOps, JUnit, Cucumber |
+| Java/React | Full-Stack Software Developer | Java, React, JavaScript, Spring, DevOps |
+| Java Enterprise | Full-Stack Software Developer | Java, SQL, JavaScript, Spring Boot |
+| .NET Full Stack | Full-Stack Software Developer | C#, SQL, ASP.NET Web API, ADO.NET Entity Framework, Angular, JavaScript, TypeScript, DevOps, Docker, Microsoft Azure, .NET, Microservices |
+| Salesforce | Salesforce Developer | Salesforce, Apex, SOQL, SOSL, Data Modeling, Visualforce, Lightning, and JavaScript |
+| Big Data | Big Data Engineer | Scala, MongoDB, Hive, Spark, Hadoop, AWS |
+| Mulesoft | Software Developer | Mulesoft, Java, REST, Spring, SQL |
+| Java or Python DevOps/SRE | Site Reliability Engineer | Jenkins, Kubernetes, Docker, Prometheus, Java, DevOps |
+| Appian | Appian Developer | Appian, Java, SQL, JDBC |
+| iOS | iOS Mobile Developer | TBD |
+| Android | Android Mobile Developer | TBD |
+| ServiceNow | ServiceNow Developer | TBD |
+| Pega | Pega Systems Architect/Java Developer | Pega, Java, PostgreSQL, JDBC, Servlets, and JavaScript | TBD |
+| UiPath | RPA Developer | UiPath Studio, UiPath Activities, UiPath Orchestrator, Web API |
+| DynamicsCRM | Dynamics 365 Technical Consultant | TBD |
+| BA | Business Analyst | Requirements Analysis, Process Modeling, Elicitation Techniques, Agile, Documentation  |
 
-Additionally, you may upload a professional headshot to your RevaturePro profile. This is optional. If you do upload your headshot, it will appear on your portfolio next to your name. We will review any headshots for professionalism.
+Additionally, you may upload a professional headshot to your RevaturePro profile. **This is optional**. If you do upload your headshot, it will appear on your portfolio next to your name. Use common sense and follow guidelines for professionalism for any image you upload:
+* Your face should be clearly visible and centered in the photo
+* You should be wearing professional attire and in a professional environment
+* Avoid weird angles, distortions, or other effects
+* Smile :)
+
+### Industry Equivalency
+
+This section **highlights your top 5 skills** that you want to focus on. The drop-down list is populated from the list of technologies on the projects you have completed. If you do not see anything in the list, this means no project skills have been configured by your trainer yet.
+
+Note: *This section is only required to be completed for Phase 2 submission.*
+
+When selecting the skills to include here, think of the most important skills relevant to the job you are interviewing for. Then, think of which skills you are most confident or knowledgeable in. Skills that meet both criteria should definitely be included here. Use the table above as a guide.
+
+When you select a skill, there is a number associated with it. This number represents an equivalent amount of experience that you received in training as you would receive working in the industry. Select a number between 3-24, depending on your level of confidence in that skill. Higher skill levels should be closer to 24, while lower skills should be closer to 3. Do **not** make all of your equivalency numbers the same - you should differentiate between your strengths and other skills. Finally, if you repeat a skill in this section and the "Skills Matrix" section, the numbers must match.
 
 ### About Me
 The About Me section should be divided into two sections:
