@@ -55,7 +55,7 @@ Check that your full name in the top left corner is accurate. Please contact `su
 | iOS | iOS Mobile Developer | TBD |
 | Android | Android Mobile Developer | TBD |
 | ServiceNow | ServiceNow Developer | TBD |
-| Pega | Pega Systems Architect/Java Developer | Pega, Java, PostgreSQL, JDBC, Servlets, and JavaScript | TBD |
+| Pega | Pega Systems Architect/Java Developer | Pega, Java, PostgreSQL, JDBC, Servlets, and JavaScript |
 | UiPath | RPA Developer | UiPath Studio, UiPath Activities, UiPath Orchestrator, Web API |
 | DynamicsCRM | Dynamics 365 Technical Consultant | TBD |
 | BA | Business Analyst | Requirements Analysis, Process Modeling, Elicitation Techniques, Agile, Documentation  |
