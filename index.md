@@ -5,7 +5,7 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 # Portfolio Review Process
 
 You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are two phases for portfolio review:
-* Phase 1: due on Monday 4 weeks before your training end date
+* Phase 1: due on Wednesday 4 weeks before your training end date
   - Review will complete by that Friday
   - Make any requested changes and start work for Phase 2
 * Phase 2: due on Monday 2 weeks before your training end date
@@ -227,25 +227,25 @@ Better:
 - Install and use the [Grammarly Plugin](https://www.grammarly.com/) to help you
 
 # Portolio Samples
-- Java / Angular
-- Java / React
-- Java with Automation
-- Java ETL
-- Java Enterprise
-- .NET
-- Salesforce
-- Big Data
-- Mulesoft
-- DevOps/SRE
-- Appian
+- [Java / Angular](https://app.revature.com/profile/JakeRowe/239a0048be3360b0017c458606a669fb)
+- [Java / React](https://app.revature.com/profile/GTBanks/a55be08c3b5ed81d4d991ffcbd20c983)
+- [Java with Automation](https://app.revature.com/profile/RustemAis/ef5a237ad5198580a4839b603b741da7)
+- [Java/Python with Automation](https://app.revature.com/profile/CSAMartin14/e5b640e2b270190d2ded891603c7dd47)
+- [Java ETL](https://app.revature.com/profile/DanielFelleman/a7c9586d1ea3af65f1c1ef7e5d4848bf)
+- [Java Enterprise](https://app.revature.com/profile/aidanamato/62dacadfc53acc1ffebb5c0739b9fd93)
+- [.NET Full Stack](https://app.revature.com/profile/M4rkf0ns/3e943b67174c08635f634d10163c3bfa)
+- [Salesforce](https://app.revature.com/profile/dafon068/d6679064aa5ee984f79cc3c993423b93)
+- [Big Data](https://app.revature.com/profile/TommyN/6ceaa8204efdefc8e03b744901051490)
+- [Mulesoft](https://app.revature.com/profile/AbbySowalla/d62009060bc0c1ec2524a8f29434cd8e)
+- [DevOps/SRE](https://app.revature.com/profile/darylnauman/7362f7826506d2faab7d09d9830e2098)
+- [Appian](https://app.revature.com/profile/CeruleanArc/bbbd0685f529653b5d22ef18a0b11386)
 - iOS
 - Android
 - ServiceNow
-- Cloud / React Native
-- Pega
-- UiPath
-- Dynamics365
-- Microsoft Dynamics365
-- Business Analysis
+- React Native
+- [Pega](https://app.revature.com/profile/PriyankaAnuganti/b6dc4ef1179794b24d31a2130d46c618)
+- [UiPath](https://app.revature.com/profile/KennyBradburn/50255d1079c9eeb052d393ffb0b22170)
+- [Microsoft Dynamics365](https://app.revature.com/profile/AndrewLin123/44cb2c4175ceba404a4c8d40ceb9d3b1)
+- [Business Analysis](https://app.revature.com/profile/JDAngel/302e70ada20925d81c8d323445503e68)
 
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
