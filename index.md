@@ -24,7 +24,6 @@ The following sections are required to be completed for each phase:
   - Other Experiences
 * Phase 2
   - Skills Matrix
-  - Industry Equivalency
   - Projects (2 projects required)
 
 When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
@@ -38,9 +37,9 @@ When you submit your portfolio for phase 1, we will review and send any feedback
 # Guidelines for Completing Your Portfolio
 
 ### Name & Title
-Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below. The "recommended industry equivalency skills" are covered in the next section.
+Check that your full name in the top left corner is accurate. Please contact `support@revature.com` if it is not. Select your title based on your particular training track using the table below. The "common skills for skills matrix" are recommendations for the later "Skills Matrix" section.
 
-| Training Track | Title | Recommended Industry Equivalency Skills |
+| Training Track | Title | Common Skills For Skills Matrix |
 |  ------------- | ----- | --------------------------------------- |
 | Java Full Stack | Full-Stack Software Developer | Java, SQL, JavaScript, TypeScript, Angular, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, AWS |
 | Java with Automation | Test Automation Engineer | Selenium, Java, DevOps, JUnit, Cucumber |
@@ -65,16 +64,6 @@ Additionally, you may upload a professional headshot to your RevaturePro profile
 * You should be wearing professional attire and in a professional environment
 * Avoid weird angles, distortions, or other effects
 * Smile :)
-
-### Industry Equivalency
-
-This section **highlights your top 5 skills** that you want to focus on. The drop-down list is populated from the list of technologies on the projects you have completed. If you do not see anything in the list, this means no project skills have been configured by your trainer yet.
-
-Note: *This section is only required to be completed for Phase 2 submission.*
-
-When selecting the skills to include here, think of the most important skills relevant to the job you are interviewing for. Then, think of which skills you are most confident or knowledgeable in. Skills that meet both criteria should definitely be included here. Use the table above as a guide.
-
-When you select a skill, there is a number associated with it. This number represents an equivalent amount of experience that you received in training as you would receive working in the industry. Select a number between 3-24, depending on your level of confidence in that skill. Higher skill levels should be closer to 24, while lower skills should be closer to 3. Do **not** make all of your equivalency numbers the same - you should differentiate between your strengths and other skills. Finally, if you repeat a skill in this section and the "Skills Matrix" section, the numbers must match.
 
 ### About Me
 The About Me section should be divided into two sections:
