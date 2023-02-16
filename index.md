@@ -10,7 +10,7 @@ You will be creating, writing, and submitting a portfolio through RevaturePro th
   - Make any requested changes and start work for Phase 2
 * Phase 2: due on Wednesday 5 weeks before your training end date
   - Review will complete by end of day Friday
-  - Make any requested cheanges and start work for phase 3
+  - Make any requested changes and start work for phase 3
 * Phase 3: due on Wednesday 6 weeks before your training end date
   - Review will complete by end of day Friday
   - Final deadline to get portfolio published is that Friday
