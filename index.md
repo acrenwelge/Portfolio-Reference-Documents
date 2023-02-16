@@ -29,13 +29,13 @@ The following sections are required to be completed for each phase:
   - Skill Matrix
   - Projects (only 1 required)
   
-When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
+When you submit your portfolio for phase 1 and 2, we will review and send any feedback. For phase 3 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
 * Please **DO NOT CLONE** your portfolio, unless asked to do so
   * If you need to make changes, just edit the same portfolio
   * If you have already submitted your portfolio and cannot edit it, ask your QC auditor or trainer to reject it
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
-* Be aware of submission deadlines for Phase 1 and 2
+* Be aware of submission deadlines for Phase 1, 2 and 3
 
 # Guidelines for Completing Your Portfolio
 
