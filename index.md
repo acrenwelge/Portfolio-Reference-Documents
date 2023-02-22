@@ -4,7 +4,7 @@ Refer to this document to generate your portfolio through RevaturePro. Read thro
 
 # Portfolio Review Process
 
-You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are two phases for portfolio review:
+You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are three phases for portfolio review:
 * Phase 1: due on Wednesday 4 weeks before your training end date
   - Review will complete by that Friday
   - Make any requested changes and start work for Phase 2
