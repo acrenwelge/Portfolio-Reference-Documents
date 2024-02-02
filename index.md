@@ -4,16 +4,13 @@ Refer to this document to generate your portfolio through RevaturePro. Read thro
 
 # Portfolio Review Process
 
-You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are three phases for portfolio review:
+You will be creating, writing, and submitting a portfolio through RevaturePro that showcases yourself, your skills, and your experience. Once completed, your porfolio will be published to our Sales team to share with clients. After you finish creating your portfolio, you will submit it for review. There are two phases for portfolio review:
 * Phase 1: due on Wednesday 4 weeks before your training end date
   - Review will complete by that Friday
   - Make any requested changes and start work for Phase 2
 * Phase 2: due on Wednesday 5 weeks before your training end date
   - Review will complete by end of day Friday
-  - Make any requested changes and start work for phase 3
-* Phase 3: due on Wednesday 6 weeks before your training end date
-  - Review will complete by end of day Friday
-  - Final deadline to get portfolio published is that Friday
+  - Make any requested changes
 * The specific deadlines will be sent to you via email
 * Ask any questions you have to your QC auditor during or after your QC session
 
@@ -24,18 +21,16 @@ The following sections are required to be completed for each phase:
   - Education
   - Other Experiences
 * Phase 2
-  - Projects 1 required
-* Phase 3
+  - Projects
   - Skill Matrix
-  - Projects 2 required
   
-When you submit your portfolio for phase 1 and 2, we will review and send any feedback. For phase 3 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
+When you submit your portfolio for phase 1, we will review and send any feedback. For phase 2 review, the portfolio should be complete and we will only reject it if there are additional changes that need to be made. All feedback will be given in the rejection email. **Please make sure to check your `revature.net` email for rejection notifications.** If you receive a rejection email, please make the required changes as soon as possible and then resubmit your portfolio.
 
 * Please **DO NOT CLONE** your portfolio, unless asked to do so
   * If you need to make changes, just edit the same portfolio
   * If you have already submitted your portfolio and cannot edit it, ask your QC auditor or trainer to reject it
 * Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
-* Be aware of submission deadlines for Phase 1, 2 and 3
+* Be aware of submission deadlines for Phase 1 and 2
 
 # Guidelines for Completing Your Portfolio
 
@@ -255,4 +250,4 @@ Better:
 - [Microsoft Dynamics365](https://app.revature.com/profile/AndrewLin123/44cb2c4175ceba404a4c8d40ceb9d3b1)
 - [Business Analysis](https://app.revature.com/profile/JDAngel/302e70ada20925d81c8d323445503e68)
 
-> *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
+> *Feel free to [contact us]((mailto:Reethu.Ranjith@revature.com) in case of any queries.*
